@@ -1,0 +1,28 @@
+_repo: Midnight_11043
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cohen, Octavus Roy
+    birthdate: 1891
+    deathdate: 1959
+    gutenberg_agent_id: '3809'
+    url: http://www.gutenberg.org/2009/agents/3809
+    wikipedia: http://en.wikipedia.org/wiki/Octavus_Roy_Cohen
+description: An affluent woman boards a taxi-cab on a dreary night in the big city.
+  After a harsh drive through sleet, they arrive at her destination. The cab looks
+  back from the weather to discover the woman gone, leaving behind a suitcase and
+  the dead body of a man. Only David Carroll can puzzle through this mystery.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- GITenberg
+title: Midnight
+url: http://www.gutenberg.org/ebooks/11043
